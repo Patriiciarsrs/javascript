@@ -18,4 +18,4 @@
     * git push
 
 ### imagem Exemplo
-<img src="https://www.alura.com.br/artigos/assets/html-css-js/imagem-1.png" align="right" width="300">
+<img src="https://www.alura.com.br/artigos/assets/html-css-js/imagem-1.png" align="left" width="200">
