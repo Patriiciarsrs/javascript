@@ -19,3 +19,4 @@
 
 ### imagem Exemplo
 <img src="https://www.alura.com.br/artigos/assets/html-css-js/imagem-1.png" align="left" width="200">
+<img src=" https://avatars.githubusercontent.com/u/128932247?v=4 " align="left" width="200">
