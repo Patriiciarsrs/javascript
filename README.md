@@ -18,6 +18,6 @@
     * git push
 
 ### imagem Exemplo https://cdn-icons-png.flaticon.com/512/919/919826.png
-<img src="https://www.alura.com.br/artigos/assets/html-css-js/imagem-1.png" align="left" width="200">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" align="left" width="200">
-<img src="https://avatars.githubusercontent.com/u/128932247?v=4" align="left" width="200">
+<img src="https://www.alura.com.br/artigos/assets/html-css-js/imagem-1.png" align="left" width="150">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" align="left" width="150">
+<img src="https://avatars.githubusercontent.com/u/128932247?v=4" align="left" width="150">
